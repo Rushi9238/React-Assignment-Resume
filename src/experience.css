@@ -1,0 +1,12 @@
+.experienceMainDiv{
+    /* border: 2px solid blue; */
+    height: 45vh;
+    width: 100%;
+    padding-left: 1rem;
+}
+.experienceMainDiv h1{
+    padding: .5rem;
+}
+.experienceMainDiv p{
+    padding: 1rem;
+}

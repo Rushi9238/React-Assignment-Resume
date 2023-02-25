@@ -1,0 +1,12 @@
+.headingMain{
+    /* border: 2px solid blue; */
+    height: 20vh;
+    width: 100%;
+    padding-left: 1rem;
+}
+.headingMain h1 ,p,span{
+padding: .5rem;
+}
+.headingMain hr{
+    margin-top: 1rem;
+}

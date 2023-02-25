@@ -1,0 +1,12 @@
+.skillMainDiv{
+    /* border: 2px solid blue; */
+    height: 30vh;
+    width: 100%;
+    padding-left: 1rem;
+}
+.skillMainDiv ul{
+    padding-left: 3rem;
+}
+.skillMainDiv hr{
+    margin-top: 2rem;
+}
